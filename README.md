@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Machine Learning algorithms, Python, SQL, NoSQL, EDA, and other cool data science stuff **
 
-- 📫 How to reach me **
+- 📫 Reach me on annerquaye[at]gmail.com
 
-- 📄 Know about my experiences [I am currently working with.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
