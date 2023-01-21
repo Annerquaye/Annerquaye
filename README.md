@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <h2 align="center"> <span style="font-family:Papyrus; font-size:6em;">Hi 👋, I'm Richard Annerquaye Abbey, a data journalist and an aspiring Machine Learning Engineer.</span>
 </h2>
 
+<p style="font-family: times, serif; font-size:11pt; font-style:italic">
+    Why did we use these specific parameters during the calculation of the fingerprints?
+</p>
+
 <h3 align="center">Intro</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
