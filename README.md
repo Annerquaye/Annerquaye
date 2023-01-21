@@ -1,8 +1,6 @@
 
 
 
-### Hi there 👋
-
 <!--
 **chinnasuryateja/chinnasuryateja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Richard Annerquaye Abbey, a data journalist and an aspiring Machine Learning Engineer.
-</h1>
-<h3 align="center">Intro</h3>
+<h3 align="center">Hi 👋, I'm Richard Annerquaye Abbey, a data journalist and an aspiring Machine Learning Engineer.
+</h3>
+<h5 align="center">Intro</h5>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
 
