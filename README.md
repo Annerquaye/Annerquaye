@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi 👋, I'm Richard Annerquaye Abbey, a data journalist and an aspiring Machine Learning Engineer.
+<h2 align="center"> <span style="font-family:Papyrus; font-size:4em;">Hi 👋, I'm Richard Annerquaye Abbey, a data journalist and an aspiring Machine Learning Engineer.</span>
 </h2>
+
 <h4 align="center">Intro</h4>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
