@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Richard Annerquaye Abbey a data journalist and aspiring Machine Learning Engineer.
 <!--
 **Annerquaye/Annerquaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
