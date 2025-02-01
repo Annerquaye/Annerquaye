@@ -1,22 +1,5 @@
 
-
-
-<!--
-**chinnasuryateja/chinnasuryateja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center"> <span style="font-family:Papyrus; font-size:6em;">Hi 👋, I'm Richard Annerquaye Abbey, a data journalist and an aspiring Machine Learning Engineer.</span>
+<h2 align="center"> <span style="font-family:Papyrus; font-size:10em;">Hi 👋, I'm Richard Annerquaye Abbey, a data journalist and an aspiring Machine Learning Engineer.</span>
 </h2>
 
 <p style="font-family: times, serif; font-size:11pt; font-style:italic">
@@ -29,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Insurance fraud transactions**
 
-- 🌱 I’m currently learning **Big data,NLP,CV**
+- 🌱 I’m currently learning **Big data, Natural Language Processing**
 
 - 💬 Ask me about **Machine Learning algorithms, Python, SQL, NoSQL, EDA, and other cool data science stuff **
 
@@ -42,7 +25,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-MY PROJECTS-
 
 <!--
 **Annerquaye/Annerquaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
